@@ -6,7 +6,8 @@
 ************************
   Lidar
 ---------------------------------------
-https://github.com/Vidicon/mb_1r2t_ros
+``` https://github.com/Vidicon/mb_1r2t_ros
+```
 ---------------------------------------
 
 ##Instalar el lidar 
